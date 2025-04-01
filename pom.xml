@@ -160,7 +160,7 @@
         <dependency>
             <groupId>org.jenkins-ci.plugins</groupId>
             <artifactId>credentials</artifactId>
-            <version>1371.1373.v4eb_fa_b_7161e9</version>
+            <version>1413.va_51c53703df1</version>
         </dependency>
 
         <dependency>
